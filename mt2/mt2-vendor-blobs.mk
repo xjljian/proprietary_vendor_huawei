@@ -33,10 +33,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/mt2/proprietary/etc/sound_param/mate2/workspaceFile.qwsp:system/etc/sound_param/mate2/workspaceFile.qwsp \
     vendor/huawei/mt2/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/huawei/mt2/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/huawei/mt2/proprietary/bin/oeminfo_server:system/bin/oeminfo_server \
     vendor/huawei/mt2/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/huawei/mt2/proprietary/vendor/lib/libbtpower.so:system/vendor/lib/libbtpower.so \
-    vendor/huawei/mt2/proprietary/vendor/lib/liboeminfo.so:system/vendor/lib/liboeminfo.so \
     vendor/huawei/mt2/proprietary/etc/batt_fw.bin:system/etc/batt_fw.bin \
     vendor/huawei/mt2/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/huawei/mt2/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
@@ -194,7 +192,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/mt2/proprietary/bin/libqmi_oem_main:system/bin/libqmi_oem_main \
     vendor/huawei/mt2/proprietary/bin/qcom-system-daemon:system/bin/qcom-system-daemon \
     vendor/huawei/mt2/proprietary/bin/qmiproxy:system/bin/qmiproxy \
-    vendor/huawei/mt2/proprietary/bin/rmt_oeminfo:system/bin/rmt_oeminfo \
     vendor/huawei/mt2/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/huawei/mt2/proprietary/bin/ssr_diag:system/bin/ssr_diag \
     vendor/huawei/mt2/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
